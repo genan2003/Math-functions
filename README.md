@@ -12,7 +12,7 @@ This Python project allows users to input options and values to plot various mat
 * Numpy
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/math-function-plotter.git
+1. Clone the repository: git clone https://github.com/genan2003/Math-functions.git
 2. Install the required packages: pip install -r requirements.txt
 3. Run the application: python main.py
 
